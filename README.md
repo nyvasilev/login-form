@@ -52,7 +52,7 @@ This project implements a login page with internationalization support for Engli
 ## Test Credentials
 For testing purposes, you can use the following credentials:
 
-| Field    | Value             |
-|----------|-------------------|
-| Email    | `test@example.com`|
-| Password | password123       |
+| Field    | Value              |
+|----------|--------------------|
+| Email    | `user1@example.com`|
+| Password | Password1!         |
