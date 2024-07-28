@@ -22,6 +22,7 @@ export const Home = () => {
 
   const handleForgotPassword = () => {
     setUser({ email: "", password: "" });
+
     navigate("/forgotPassword");
   };
 
