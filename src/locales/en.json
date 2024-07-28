@@ -1,0 +1,15 @@
+{
+	"welcome": "Welcome back!",
+	"login": "Login",
+	"logout": "Logout",
+	"loginSuccess": "Great! Login successful!",
+	"loginFailed": "Login failed. Please try again.",
+	"passwordHasBeenSent": "The password has been sent to your email.",
+	"forgotPassword": "Forgot password",
+	"Back": "Back",
+	"passwordMinLength": "Password must be at least 8 characters long.",
+	"passwordOneUpperCase": "Password must contain at least one uppercase letter.",
+	"passwordOneLowerCase": "Password must contain at least one lowercase letter.",
+	"passwordOneNumber": "Password must contain at least one number.",
+	"passwordOneSpecialCharacter": "Password must contain at least one special character."
+}

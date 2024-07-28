@@ -1,0 +1,12 @@
+.failedLogin-title {
+  font-size: 2rem;
+  text-align: center;
+  margin: 1em 0;
+}
+
+.failedLogin-icon {
+  display: flex;
+  rotate: 180deg;
+  width: 100px;
+  margin: 5em auto;
+}

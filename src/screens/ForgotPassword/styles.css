@@ -1,0 +1,11 @@
+.forgotPassword-title {
+  font-size: 2rem;
+  text-align: center;
+  margin: 1em 0;
+}
+
+.forgotPassword-icon {
+  display: flex;
+  width: 100px;
+  margin: 5em auto;
+}
